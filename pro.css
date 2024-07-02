@@ -1,0 +1,43 @@
+.main-div{
+    display: flex;
+    justify-content: center;
+width: 300px 0px;
+margin: 0px 0px 50px 0px;
+}
+.section{
+    width: 300px;
+    background-color: #ffffff;
+    color: black;
+    padding: 10px 10px 10px 30px;
+    margin: 0 20px;
+    border-radius: 20px;
+    border: 5px solid #5b009c;
+    box-shadow: 8px 8px 15px ;
+}
+.text5{
+    background-color: #5b009c;
+    color:wheat;
+    padding: 8px 10px 8px 10px;
+   width: 0 0 0 10px; 
+}
+.main{
+    display: flex;
+    justify-content: center;
+   width: 500px 0 0 0px;
+   margin: 0px 0px 50px 0px;
+}
+
+.into{
+
+    display: flex;
+    justify-content: center;
+    width: 500px 0px 0px 0px ;
+}
+.in{
+    width: 300px;
+    background-color: black;
+    color: #ffffff;
+    padding: 8px 10px 10px 30px;
+    margin: 0px 20px;
+ 
+}
